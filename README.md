@@ -86,6 +86,7 @@ In this step we will explore each dataset for total number of rows, missing valu
 
 ![Data Model](https://lh3.googleusercontent.com/gDDqi8KOSfahKNd5WHjO9HfFQxXF2WAqyKFHxPMkJlnLZg7HaC-LEnGXfnyU1-tyfp5lkakqrLfBdcWdst7XHG7pB_uABJD3I0mC7CnaCC_LLOaY_yRPtotIx4juy9svGRfQ8wPqK05m5hH8bOCsrEA27aLItiZWghg4ojrNc3oHM1jcBA5SMUuJWbDlziOcFoXRywvEA4PenMIsbB1nswxv73-Sz3TxmOreza8DHaSjpwUGY1NKaEs3LSJe6IHtMvp-_Ec8PbGbZXxLxvo5uAuyECGxVDgafVy8llQEuzr6J2goQiVNzKVGvdkkUL1U4HqxqjWfnCvEPSHbLjetgxU_O8GBbFyutGNuE26E3CdiTVIkXqdY0tNtJuUD0O-YLxbBKIOWzI2pOBFXDHv0MEdwaPS0K-C4XnW9b4a2UDCk3TgzhFwLldHR-RaliKcn9nPwP5YhFZIspOmOOHMLp1T5hjqy2eMP6sUOQTgQ6WNdGZ5L0Wqv82N6XWB34mIHXp9O6NL4SwFd1fDAShcrRJT9VzTOcnbRbeXYFaTsihEfqtVNx6au8Ehrt59unQB6o6QiIUI_-7mEVrhlFZo-CbcYaS3vh_2kqnxJXoaTj7DXcuM4xEFpqyZolfSeGp4FPO9zY43ywuhO1VFlXiPWm0FKd4Ca6G2XRW7f_YtAEwKiMhiQSWvLPpJ0EXU4Kg=w1340-h873-no?authuser=0)
 
+![Data Model](https://github.com/mmali1/ImmigrationProject/blob/ebcfd165a061a7ebac69a5b53b3b6f94e4d259be/data_model.png?raw=true)
 
    The data model chosen for this project represents star schema. We have one immigration_fact table which stores each unique immigration record with facts such as visa type, country of residence, destination state, arrival date, departure date etc. 
 
